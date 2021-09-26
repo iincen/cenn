@@ -85,7 +85,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:FebzGanz\n' //jangan digantu nanti error nanges
             + 'ORG: Creator FebZabotz;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6285849261085:+62 858-4926-1085\n'  //kalo eror jan nanges
+            + 'TEL;type=CELL;type=VOICE;waid=6285156760338:+62 851-5676-0338\n'  //kalo eror jan nanges
             + 'END:VCARD'
 
 const vcard1 = 'BEGIN:VCARD\n' 
