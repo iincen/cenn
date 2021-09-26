@@ -83,7 +83,7 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const chatban = JSON.parse(fs.readFileSync('./src/banchat.json'))
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:FebzGanz\n' //jangan digantu nanti error nanges
+            + 'FN:Cen.\n' //jangan digantu nanti error nanges
             + 'ORG: Creator FebZabotz;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6285156760338:+62 851-5676-0338\n'  //kalo eror jan nanges
             + 'END:VCARD'
@@ -92,7 +92,7 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:Creator Bot\n' //Jangan diganti nanti eror nanges
             + 'ORG: Creator AmatsukazeBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283102650464:+62 831-0265-0464\n'  //kalo eror jan nanges
+            + 'TEL;type=CELL;type=VOICE;waid=6285156760338:+62 851-5676-0338\n'  //kalo eror jan nanges
             + 'END:VCARD'
 
 /*prefix = `#`*/
